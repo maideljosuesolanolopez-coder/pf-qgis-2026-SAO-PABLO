@@ -17,3 +17,12 @@ Se utilizó remuestreo por vecino más cercano debido a que se trata de datos ca
 
 ## Limitación
 La resolución espacial de 300 m de ESA CCI es menor que la utilizada para el análisis de la expansión urbana, por lo que los resultados de cobertura natural deben interpretarse considerando esta diferencia de resolución.
+
+
+## Análisis de cambio
+
+Se compararon las coberturas naturales de 2005 y 2020 mediante rásteres alineados con una resolución de 300 m.
+
+La capa de cambio permite distinguir entre pérdida de cobertura natural, ganancia de cobertura natural y áreas que permanecieron con cobertura natural durante el período analizado.
+
+Los cálculos de superficie se realizaron utilizando el sistema SIRGAS 2000 / UTM zona 23S (EPSG:31983).
