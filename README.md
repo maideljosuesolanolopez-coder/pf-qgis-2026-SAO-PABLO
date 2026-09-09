@@ -38,14 +38,19 @@ Para la cobertura natural se utilizó remuestreo por vecino más cercano debido 
 
 Las coberturas naturales de 2005 y 2020 fueron alineadas a una resolución común de 300 m para realizar la comparación temporal.
 
-## Resultados preliminares
+## Resultados
 
 Entre 2005 y 2020, la superficie urbana pasó de 82 667 ha a 84 865 ha.
 
 Esto representa una expansión urbana de 2 198 ha, equivalente a 21,98 km².
 
-La proporción del municipio ocupada por la superficie urbana pasó aproximadamente de 54,34 % a 55,79 %.
+La proporción del municipio ocupada por la superficie urbana pasó de 54,34 % a 55,79 %.
 
+La cobertura natural identificada pasó de 59 328 ha en 2005 a 57 105 ha en 2020.
+
+Para la comparación temporal se utilizó la zona común entre ambas fechas. En esta zona se identificaron 3 150 ha de pérdida de cobertura natural y 1 323 ha de ganancia, lo que representa una pérdida neta de 1 827 ha.
+
+Considerando la zona común, la cobertura natural pasó de 58 572 ha en 2005 a 56 745 ha en 2020, equivalente a una reducción aproximada de 1,20 puntos porcentuales del área municipal.
 ## Limitaciones
 
 La cobertura natural de ESA CCI tiene una resolución espacial de 300 m, menor que la resolución de 100 m utilizada para el análisis de superficie construida.
